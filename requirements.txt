@@ -1,0 +1,7 @@
+asyncio==3.4.3
+Flask==2.2.1
+flask-sock==0.5.2
+websockets==10.4
+pypresence==4.2.1
+requests
+cryptography
