@@ -10,9 +10,9 @@ Planned in this server:
   - [ ] Discord Bot Integration (planned as last thing to do after all)
 
 ## About files
-
-``app.py`` - main server script
-``requirements.txt`` - u know...
+  
+``app.py`` - main server script  
+``requirements.txt`` - u know...  
 
 
 ## Q&A
