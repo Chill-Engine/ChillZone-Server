@@ -1,7 +1,9 @@
 # ChillZone-Server
-## Server for Chill Engine (still in dev)
+## Server for Chill Engine (abandoned)
 
-Status: Base stuff working rn!
+Moved to nakama thingy
+
+Status: Base stuff works, but now this server is useless.
 
 Planned in this server:
   - [ ] Server Configuration via web
@@ -18,12 +20,12 @@ Planned in this server:
 ## Q&A
 
 Q: For what did you made this repo?  
-A: I wanted to make server externally from main project   
+A: I wanted to make server externally from main project.   
   
 Q: Welp, how this server will work?  
-A: Host it on some linux based machine and that's all. Docs will be made soon.  
+A: I don't remember now :D  
   
 Q: Can i host it somewhere like VPS or free services like Vercel?  
-A: Idk right now, maybe after release.
+A: You can, but for what?
 
 
